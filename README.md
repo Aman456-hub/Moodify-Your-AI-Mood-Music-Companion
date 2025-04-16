@@ -65,4 +65,4 @@ Moodify/
 
 - 🗣️ Voice-based interaction
 
-### 🙌 Made with ❤️ by Aman Chhimwal
+### 🙌 Made with ❤️ by Aman Chhimwal and Sana Bansal
